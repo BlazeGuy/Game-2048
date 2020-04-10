@@ -1,0 +1,4 @@
+﻿  g2048.cpp
+d:\С++\Game2048\Game2048\g2048.cpp(6,23): warning C4018: <: несоответствие типов со знаком и без знака
+d:\С++\Game2048\Game2048\g2048.cpp(62,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game2048.vcxproj -> D:\С++\Game2048\Debug\Game2048.exe
